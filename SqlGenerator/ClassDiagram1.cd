@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SqlGenerator.CtrlEnvironment">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIBIAACAAAAABAIGgAAACAAAAAAgAACAAAEAAAAA=</HashCode>
+      <FileName>CtrlEnvironment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SqlGenerator.EnvironmentEventArgs">
+    <Position X="11.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAFAAAAAAAAAAAAAAAAAAAAACACAAAgAAAAA=</HashCode>
+      <FileName>CtrlEnvironment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SqlGenerator.Database" BaseTypeListCollapsed="true">
+    <Position X="4.75" Y="4.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAACAAAAgAAAAAAAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Database.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.742" Collapsed="true" />
+  </Class>
+  <Class Name="SqlGenerator.FrmExecuteProcedure">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAECAAAQACFAChAAAAiAAgACAAACgAAAAAEQAIAIBAA=</HashCode>
+      <FileName>FrmExecuteProcedure.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SqlGenerator.FrmSqlGenerator">
+    <Position X="2.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>gBNCAACAQSJAQBAIEIjgAAByAIGAACwAQCESEoAgQAk=</HashCode>
+      <FileName>FrmSqlGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SqlGenerator.Items">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAACAAIAAAAAAAEAAABAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Items.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SqlGenerator.StoredProcedure">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAACAAAAAAAAAQAgAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>StoredProcedure.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SqlGenerator.Tools">
+    <Position X="7.25" Y="4.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>CAAQAAAAAAAAgAgABAAAAABAAAAAAAAQBAAAmAAACAA=</HashCode>
+      <FileName>Tools.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="SqlGenerator.WorkingEnvironment">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAAAAAAAQAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Common.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
