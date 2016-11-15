@@ -10,8 +10,8 @@ You must have SQL Server Management Studio installer on the same computer. The p
 - load all stored procedures
 - select all of juste some of these
 - choose 'extract all stored procedures into one file' or 'extract each stored procedures into a separate file'
-- do the same thing for the target environment
-- merge each stored procedure 
+- do the same thing for the target environment (ex: PROD)
+- merge each stored procedure
 - copy all merged procedures into the target directory
 - run execute with the right target environment 
 - and pray ;)
